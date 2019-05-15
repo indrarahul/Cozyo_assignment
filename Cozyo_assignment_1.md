@@ -26,6 +26,20 @@ It is possible for a model trained on synthetic data to give poor accuracy on re
 - Use of Visual Recognition in Healthcare Industry
 - Use of Visual Recognition on Social Media Platforms
 
+
+### Resources
+- Google
+- arxiv.org
+- https://www.analyticsindiamag.com/can-synthetic-data-solve-the-bulk-data-problem-in-deep-learning/
+- https://www.forbes.com/sites/bernardmarr/2018/11/05/does-synthetic-data-hold-the-secret-to-artificial-intelligence/#62db63e542f8
+- https://www.ingedata.net/blog/machine-learning-algorithms-fake-data
+- https://blog.aimultiple.com/synthetic-data/
+- https://www.analyticsindiamag.com/8-uses-cases-of-image-recognition-that-we-see-in-our-daily-lives/
+- Junyao Guo, Unmesh Kurup, Mohak Shah "Is it Safe to Drive? An Overview of Factors,
+Challenges, and Datasets for Driveability Assessment in Autonomous Driving" ,  arXiv:1811.11277v1 27 Nov 2018
+- Braden Hurl, Krzysztof Czarnecki, Steven Waslander "Precise Synthetic Image and LiDAR (PreSIL) Dataset for Autonomous Vehicle Perception" , arXiv:1905.00160v2 7 May 2019
+- Magnus Wrenninge, Jonas Unger "Synscapes: A Photorealistic Synthetic Dataset for Street Scene Parsing", arXiv:1810.08705v1 19 Oct 2018
+
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
 

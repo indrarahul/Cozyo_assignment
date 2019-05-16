@@ -25,7 +25,9 @@ It is possible for a model trained on synthetic data to give poor accuracy on re
 - Face Recognition
     - Real faces are required for this purpose, with a real identity. Generating synthetic data would, therefore, be meaningless for face recognition.
 - Object Recognition
+    - Models trained on only synthetic data are worse than a model trained on small data set containing real images.
     - Synthetic data might not be good enough yet for a model to train on exclusively but it can be used as a tool when no other data exists. 
+
 - Use of Visual Recognition in Healthcare Industry
     - eg., in disease diagnosis- As discussed earlier, this might lead to incorrect diagnosis as the data for negative diagnosis usually outweighs that for a positive diagnosis.
 
@@ -43,6 +45,7 @@ It is possible for a model trained on synthetic data to give poor accuracy on re
 Challenges, and Datasets for Driveability Assessment in Autonomous Driving" ,  arXiv:1811.11277v1 27 Nov 2018
 - Braden Hurl, Krzysztof Czarnecki, Steven Waslander "Precise Synthetic Image and LiDAR (PreSIL) Dataset for Autonomous Vehicle Perception" , arXiv:1905.00160v2 7 May 2019
 - Magnus Wrenninge, Jonas Unger "Synscapes: A Photorealistic Synthetic Dataset for Street Scene Parsing", arXiv:1810.08705v1 19 Oct 2018
+- Love Lidberg "Object Detection using deep learning and synthetic data", LiU ITN-TEK A 18/030 SE
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 

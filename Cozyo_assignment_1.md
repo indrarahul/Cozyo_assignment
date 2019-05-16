@@ -25,7 +25,7 @@ It is possible for a model trained on synthetic data to give poor accuracy on re
 - Face Recognition
     - Real faces are required for this purpose, with a real identity. Generating synthetic data would, therefore, be meaningless for face recognition.
 - Object Recognition
-    - Models trained on only synthetic data are worse than a model trained on small data set containing real images.
+    - Models trained on only synthetic data are usually worse than a model trained on small data set containing real images.
     - Synthetic data might not be good enough yet for a model to train on exclusively but it can be used as a tool when no other data exists. 
 
 - Use of Visual Recognition in Healthcare Industry

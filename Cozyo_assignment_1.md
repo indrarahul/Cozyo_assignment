@@ -20,11 +20,15 @@ It is possible for a model trained on synthetic data to give poor accuracy on re
 - Some anomalies like those during natural disasters are not possible to be represented accurately beforehand. If the model is not robust enough to deal with such anomalies, poor accuracy and improper behaviour of the resulting application would take place.
 
 ### 3. Putting aside the case of autonomous driving, what are some use cases that may not be suited for visual recognition training with synthetic data, and why are they not suitable?
-- Face recognition
 - Fraudulent activity detection
+    - Fraudulent activities are usually outliers from the general user activities, and models can be trained to detect such activities. Using synthetic data, however, fraudulent activities which are unique or unforeseen might not be able to be represented. Also, some anomalous user activity, though innocent, may be replicated by the generating algorithm, therefore jeopardizing the stability of the model.
+- Face Recognition
+    - Real faces are required for this purpose, with a real identity. Generating synthetic data would, therefore, be meaningless for face recognition.
 - Object Recognition
+    - Synthetic data might not be good enough yet for a model to train on exclusively but it can be used as a tool when no other data exists. 
 - Use of Visual Recognition in Healthcare Industry
-- Use of Visual Recognition on Social Media Platforms
+    - eg., in disease diagnosis- As discussed earlier, this might lead to incorrect diagnosis as the data for negative diagnosis usually outweighs that for a positive diagnosis.
+
 
 
 ### Resources
